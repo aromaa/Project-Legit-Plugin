@@ -1,0 +1,8 @@
+name: ProjectLegit
+description: Cheaters... where?
+version: 1.0
+
+author: isokissa3
+website: https://goldtreevers.net
+
+main: net.goldtreeservers.projectlegitplugin.ProjectLegitPlugin
